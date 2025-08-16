@@ -87,5 +87,5 @@ Include a high-resolution PNG in the `assets/` folder named `architecture-diagra
 ## 🧑‍💻 Author
 
 Akshith — Cloud enthusiast building recruiter-magnetic AWS projects.  
-LinkedIn: https://linkedin.com/in/yourprofile  
-Portfolio: https://yourportfolio.com  
+LinkedIn: https://www.linkedin.com/in/akshith-a-209a64370/ 
+
